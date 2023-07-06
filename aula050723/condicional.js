@@ -13,11 +13,11 @@ else
     console.log("Nível Iniciante");
   else if(nivelIngles == 2)
     console.log("Nivel Básico");
-  else if(nivelIngles ==3)
+  else if(nivelIngles == 3)
     console.log("Nivel Intermediário");
   else if(nivelIngles == 4)
     console.log("Nível Avançado");
-  else if(nivelIngles ==5)
+  else if(nivelIngles == 5)
     console.log("Nível Fluente");
   else
     console.log("Nível desconhecido");
