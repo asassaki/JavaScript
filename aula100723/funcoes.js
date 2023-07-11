@@ -81,3 +81,8 @@ console.log(Math.sqrt(121)); // raiz quadrada
 console.log(Math.abs(-8));
 console.log(Math.random()); // [0, 1[
 console.log(Math.floor(Math.random() * 100 + 1)); // [1, 100]
+
+// autoboxing
+
+let num = 1;
+num.toFixed();
